@@ -1,0 +1,6 @@
+numpy==1.23.1
+open3d==0.13.0
+mathutils==2.81.2
+Pillow==9.2.0
+trimesh==3.13.1
+Wand==0.6.9

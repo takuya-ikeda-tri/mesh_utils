@@ -2,7 +2,7 @@
 Welcome to use this repo for colored pointcloud sampling from mesh such as .obj 
 
 ## Usage
-### 0. Install 'Python.h'
+### 0. Install python3-dev for 'Python.h'
 `~$ sudo apt-get install python3-dev`
 
 ### 1. Install requirements  
